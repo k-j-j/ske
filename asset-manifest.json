@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ske/static/css/main.3adecf3d.css",
+    "main.js": "/ske/static/js/main.54e7a699.js",
+    "static/js/787.3ad4fe41.chunk.js": "/ske/static/js/787.3ad4fe41.chunk.js",
+    "index.html": "/ske/index.html",
+    "main.3adecf3d.css.map": "/ske/static/css/main.3adecf3d.css.map",
+    "main.54e7a699.js.map": "/ske/static/js/main.54e7a699.js.map",
+    "787.3ad4fe41.chunk.js.map": "/ske/static/js/787.3ad4fe41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3adecf3d.css",
+    "static/js/main.54e7a699.js"
+  ]
+}
